@@ -1,6 +1,6 @@
 # eta-2023-1-mobile-test
 
-O objetivo do projeto é automatizar cenários de teste do aplicativo Globoplay, um serviço de streaming brasileiro do Grupo Globo, como atividade avaliativa da disciplina Testes Mobile.
+O objetivo do projeto é automatizar cenários de teste do aplicativo [Globoplay](https://play.google.com/store/apps/details?id=com.globo.globotv), um serviço de streaming brasileiro do Grupo Globo, como atividade avaliativa da disciplina Testes Mobile.
 
 Foi utilizado Appium com Python na plataforma Android.
 
